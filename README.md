@@ -1,4 +1,4 @@
-# OCR based Medical Data Extraction Project
+# Medical Report Extraction Backend
 
 ## Problem statement
 There are a lot of procedures needs to followed by the health insurance companies as per the government regulation to issue the claims, for that the insurance company has to process the images of patient details and prescription sent by hospitals or induvial doctors and extract useful data from them. For these process, the most insurance companies outsource workforce from companies like “Mr. X data Analytics” to extract the information from images manually.
